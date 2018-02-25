@@ -1,8 +1,9 @@
 1. Hvað er callback? Útskýrðu með eigin orðum, komdu með kóðadæmi. (0.5%)
-Svar: Callback 
+Svar: Callback function er notað til þess að koma í veg fyrir error og er skrifað í línu fyrir neðan kóða,
 
 2. Hvað er EventLoop? Úrskýrðu með eigin orðum. (0.25%)
-Svar:
+Svar: Event loop er alltaf í gangi og athugar hvort að Call stack sé tómt, ef það er tómt þá sskoðar það Event queue og ef það er
+eitthvað þar þá er það fært í call stack.
 
 3. Leiðréttu eftirfarandi kóða þannig að hann virki (ekki syntax villa). (0.25%)
 function checkUsername() {
