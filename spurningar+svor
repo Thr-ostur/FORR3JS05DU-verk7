@@ -19,7 +19,8 @@ elUsername.addEventListener('blur' , function() {
 checkUsername(5);
 }, false)
 
-Svar:
+Svar: Það þýðir að það verði farið í gegnum þetta í öfugri röð. ef þetta væri true þá myndi þetta vera 1,2,3 en núna þegar þetta er false
+þá er þetta 3,2,1
 
 5. Hvað gera eftirfarandi aðferðir? (0.25%)
 a. stopPropagation()
