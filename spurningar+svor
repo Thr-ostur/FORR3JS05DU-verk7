@@ -1,5 +1,5 @@
 1. Hvað er callback? Útskýrðu með eigin orðum, komdu með kóðadæmi. (0.5%)
-Svar-1: Callback function er notað til þess að koma í veg fyrir error og er skrifað í línu fyrir neðan kóða,
+Svar-1: Callback er function inní function sem argument og er notað til þess að koma í veg fyrir error og er skrifað í línu fyrir neðan kóða,
 
 2. Hvað er EventLoop? Úrskýrðu með eigin orðum. (0.25%)
 
